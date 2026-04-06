@@ -1,6 +1,6 @@
 # Resources
 
-This repository is supported by a set of detailed blog posts and research.
+This repository is supported by detailed blog posts and research on enterprise AI visibility.
 
 ---
 
@@ -49,3 +49,23 @@ https://blog.peridot.company/we-analyzed-enterprise-ai-usage-what-429-respondent
 ### Full Report (PDF)
 
 https://blog.peridot.company/PDF/peridot_report.pdf
+
+---
+
+## How to Use These Resources
+
+- Start with tracking AI usage  
+- Identify shadow AI across teams  
+- Conduct an AI usage audit  
+- Discover all AI tools in your organization  
+- Use data to inform governance decisions  
+
+---
+
+## Related
+
+- Framework → ./framework.md  
+- Checklist → ./checklist.md  
+- Audit Template → ./templates/ai-usage-audit.md  
+- Data Summary → ./data/enterprise-ai-usage-summary.md  
+- Back to Overview → ./README.md  
