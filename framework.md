@@ -104,3 +104,12 @@ Enterprise AI does not have an adoption problem.
 It has a visibility problem.
 
 Organizations that prioritize visibility first will be able to govern, secure, and optimize AI effectively.
+
+---
+
+## Related
+
+- Checklist → ./checklist.md  
+- Audit Template → ./templates/ai-usage-audit.md  
+- Resources → ./resources.md  
+- Back to Overview → ./README.md
