@@ -110,8 +110,12 @@ This repository defines and operationalizes **enterprise AI visibility** as a ca
 If you are dealing with AI usage, shadow AI, or governance challenges, this is the starting point.
 
 ---
+## Repository Structure
 
-## Related
-
+- Framework → ./framework.md  
+- Checklist → ./checklist.md  
+- Audit Template → ./templates/ai-usage-audit.md  
+- Usage Data Summary → ./data/enterprise-ai-usage-summary.md  
+- Resources → ./resources.md
 - Peridot (Enterprise AI Control Layer)  
 https://github.com/Peridot-sh/peridot
